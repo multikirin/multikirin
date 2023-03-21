@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @multikirin
+- 👋 Hi, I’m @multikirin and @team-v0rtex
 - 👀 I’m interested in Lua and c#
 - 🌱 I’m currently learning c#
 - 📫 How to reach me: kirin#1419 on discord
